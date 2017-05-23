@@ -1,0 +1,46 @@
+html , body {
+    height: 100%;
+}
+body {
+    background: #555e57;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Crete Round"
+}
+
+img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+table {
+    background: #f4f5f5;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    border: 2px solid rgba(189, 189, 189, 1);
+    text-align: center;
+    padding: 10px;
+}
+
+.names {
+    text-align: left;
+}
+
+th {
+    background-color: #38b75c;
+    color: #dadddb;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+caption {
+    padding: 10px;
+    font-size: 30px;
+}
